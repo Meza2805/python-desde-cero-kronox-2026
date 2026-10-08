@@ -6,7 +6,8 @@
 
 <p align="center">
   <b>Fundamentos para crear soluciones tecnológicas</b><br>
-  Taller práctico · 8 de octubre de 2026 · CI Nicaragua
+  Taller práctico · 8 de octubre de 2026 · CI Nicaragua<br>
+  👨‍💻 Creado por <b>Marvin Rafael Meza Pineda</b> · 🌐 <a href="https://rafaelteach.com/" target="_blank">rafaelteach.com</a>
 </p>
 
 <p align="center">
