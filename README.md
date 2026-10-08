@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Portada-Taller-Python.png" alt="Portada del Taller de Python" width="100%">
+  <img src="./Portada-Curso-Python.png" alt="Portada del Taller de Python" width="100%">
 </p>
 
 <h1 align="center">🐍 Python desde cero</h1>
